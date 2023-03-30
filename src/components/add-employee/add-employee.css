@@ -1,0 +1,25 @@
+.add-employee {
+    background: rgb(91, 30, 188);
+    padding: 30px 0px 30px 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.add-title {
+    margin-bottom: 20px;
+}
+
+.add-wrapper {
+    display: flex;
+}
+
+.add-input {
+    width: 30%;
+    margin-right: 10px;
+    border-radius: 2px;
+    margin-bottom: 0;
+}
+
+.add-button {
+    border-radius: 5px;
+}
