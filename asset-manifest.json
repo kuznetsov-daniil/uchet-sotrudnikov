@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uchet-sotrudnikov/static/css/main.7e83f1a7.css",
+    "main.js": "/uchet-sotrudnikov/static/js/main.b8346e7c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/uchet-sotrudnikov/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/uchet-sotrudnikov/index.html",
+    "main.7e83f1a7.css.map": "/uchet-sotrudnikov/static/css/main.7e83f1a7.css.map",
+    "main.b8346e7c.js.map": "/uchet-sotrudnikov/static/js/main.b8346e7c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/uchet-sotrudnikov/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e83f1a7.css",
+    "static/js/main.b8346e7c.js"
+  ]
+}
